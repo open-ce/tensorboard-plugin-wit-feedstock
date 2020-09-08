@@ -1,1 +1,1 @@
-# tensorboard-plugin-wit
+# tensorboard-plugin-wit-feedstock
